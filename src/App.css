@@ -1,0 +1,23 @@
+.container {
+    background-color: grey;
+    justify-content: space-around;
+}
+
+.App {
+    text-align: center;
+    background-color: floralwhite;
+}
+
+.App-header {
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: inherit;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+}
+
+.link {
+    margin-left: 2.5em;
+}
